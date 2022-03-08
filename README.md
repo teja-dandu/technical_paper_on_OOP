@@ -306,7 +306,7 @@ del emp_1.fullname
 
 
 ### _Acknowledgement_
- * References : <a href="https://https://www.amazon.com/gp/product/1491946008/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491946008&linkCode=as2&tag=coreyms-20&linkId=39335cdc340fb7ce5bd51d59c57e7e54">Fluent-Python</a>
+ * References : <a href="https://www.amazon.com/gp/product/1491946008/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491946008&linkCode=as2&tag=coreyms-20&linkId=39335cdc340fb7ce5bd51d59c57e7e54">Fluent-Python</a>
 
 ##### _License_
  * MIT License
